@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codifigata Back to Top 1.0.0\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Codifigata Back to Top"
+msgstr "Codifigata Torna Su"
+
+msgid "Lightweight back to top button with smooth scroll. No external files: CSS and JS are printed inline in the footer. Configure it from Settings, Back to Top."
+msgstr "Pulsante torna su leggero con scorrimento fluido. Nessun file esterno: CSS e JS sono stampati inline nel footer. Si configura da Impostazioni, Torna su."
+
+msgid "Back to Top"
+msgstr "Torna su"
+
+msgid "Back to top of page"
+msgstr "Torna all'inizio della pagina"
+
+msgid "Back to top"
+msgstr "Torna all'inizio"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Back to Top settings"
+msgstr "Impostazioni pulsante Torna su"
+
+msgid "Color"
+msgstr "Colore"
+
+msgid "Leave empty to use the primary color of the site (Elementor global color or theme palette)."
+msgstr "Lascia vuoto per usare il colore principale del sito (colore globale di Elementor o palette del tema)."
+
+msgid "Style"
+msgstr "Stile"
+
+msgid "Soft (light background)"
+msgstr "Tenue (sfondo chiaro)"
+
+msgid "Solid"
+msgstr "Pieno"
+
+msgid "Outline"
+msgstr "Contorno"
+
+msgid "Shape"
+msgstr "Forma"
+
+msgid "Rounded"
+msgstr "Arrotondato"
+
+msgid "Circle"
+msgstr "Cerchio"
+
+msgid "Square"
+msgstr "Quadrato"
+
+msgid "Icon"
+msgstr "Icona"
+
+msgid "Chevron"
+msgstr "Freccia semplice"
+
+msgid "Arrow"
+msgstr "Freccia con asta"
+
+msgid "Position"
+msgstr "Posizione"
+
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+msgid "Size"
+msgstr "Dimensione"
+
+msgid "Side of the button on desktop."
+msgstr "Lato del pulsante su desktop."
+
+msgid "Distance from edge"
+msgstr "Distanza dal bordo"
+
+msgid "Space from the edges of the screen on desktop. On mobile it is reduced automatically."
+msgstr "Spazio dai bordi dello schermo su desktop. Su mobile viene ridotto in automatico."
+
+msgid "Show after"
+msgstr "Mostra dopo"
+
+msgid "Scroll distance after which the button appears."
+msgstr "Scorrimento dopo il quale compare il pulsante."
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Show the button on screens narrower than 768px"
+msgstr "Mostra il pulsante sugli schermi più stretti di 768px"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Preview of the saved settings. With the automatic color, the site shows its own primary color."
+msgstr "Anteprima delle impostazioni salvate. Con il colore automatico, sul sito compare il suo colore principale."
